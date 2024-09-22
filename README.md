@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, my name is Oscar, and welcome to my GitHub! 👋
 
 <!--
 **OscarCampos98/OscarCampos98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,10 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-Hello, my name is Oscar, and welcome to my GitHub!
-
-I'm a 2024 Computer Science graduate from the University of Calgary. My curiosity has driven me to explore various tech fields, from web design and databases to security, data analytics, and AI modeling.
+I'm a Computer Science graduate from the University of Calgary. My curiosity has driven me to explore various tech fields, from web design and databases to security, data analytics, and AI modeling.
 While I’ve gained mid-level experience in these areas, I’m always eager to learn more and develop my skills further. Outside of tech, I enjoy sports and good conversations.
 
 ## Technical Proficiencies
