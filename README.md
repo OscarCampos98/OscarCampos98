@@ -26,7 +26,7 @@ While I’ve gained mid-level experience in these areas, I’m always eager to l
 <!-- -->
 <!-- -->
 
-## Tools and APIs
+## DevOps & Data Tools
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Databricks-EF403F?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" /> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
 
 ## Frameworks & Libraries
