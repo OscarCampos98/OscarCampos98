@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm a Computer Science graduate from the University of Calgary. My curiosity has driven me to explore various tech fields, from web design and databases to security, data analytics, and AI modeling.
-While I’ve gained mid-level experience in these areas, I’m always eager to learn more and develop my skills further. Outside of tech, I enjoy sports and good conversations.
+While I’ve gained good experience in these areas, I’m always eager to learn more and develop my skills further. Outside of tech, I enjoy sports and good conversations.
 
 ## Technical Proficiencies
 ## Programming Languages
